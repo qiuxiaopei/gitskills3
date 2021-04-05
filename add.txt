@@ -3,3 +3,6 @@ skill3
 Creating a new branch is quick
 before stash kob
 after stash
+
+222
+Stashed changes
